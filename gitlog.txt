@@ -1,0 +1,252 @@
+commit 4c4fa2c5320859b778e316d6a7e4babde5117ae7
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 15:40:11 2021 -0400
+
+    fixed += operator to make more efficient
+
+commit af2036cf908d3170668eff89c1f075bd80bef50d
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 14:24:46 2021 -0400
+
+    changes
+
+commit a3efd0149b443faa0598033e602ad8d26cb72828
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 03:35:14 2021 -0400
+
+    final commit
+
+commit b3922d2ed9c14437b373a112a4317d39a58e10ef
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 03:21:27 2021 -0400
+
+    final changes
+
+commit 18c90bacdebe3e77d0ced8d13dfddb1ef0c6dff5
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 02:00:09 2021 -0400
+
+    fixed minor errors
+
+commit 86f19a3ec9a8ee995b0d6eeb05a199281c4bc57b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 01:56:20 2021 -0400
+
+    fixed spelling issues
+
+commit 56b477fa47a16d4979223d7604f2efbeb54a23f4
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 01:54:43 2021 -0400
+
+    Fixed << operator
+
+commit f9b4928bf44699cd462b8eafb811e8dec3c48f3e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Apr 19 00:42:00 2021 -0400
+
+    CTrie.cpp done for now
+
+commit 9701e5aebb6c58e4ddec3d0979076c8fdcae66a3
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Apr 4 22:04:40 2021 -0400
+
+    edited README
+
+commit 5f7bccfebfe759abbeeb7cd9d38bcf3a8a883db4
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Apr 4 21:42:06 2021 -0400
+
+    added readme
+
+commit 3e0bda632e226f9ee9f3ba08568017a70e1b18eb
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Apr 4 21:41:49 2021 -0400
+
+    added gitlog
+
+commit 989d818cd69597cdb61a44760bee65be42668635
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Apr 4 21:31:55 2021 -0400
+
+    completed R
+
+commit d6930badc6f802d11d328a11f56819015823220e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Apr 4 20:18:07 2021 -0400
+
+    S done, only R left
+
+commit 2edd6eb698942c42ffe3d3ac9c6d80159b6df8c1
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Apr 4 20:11:44 2021 -0400
+
+    temp commit to save S
+
+commit f4500988c5c163b9caab0245d859c3a14668690e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Apr 4 18:28:20 2021 -0400
+
+    done with C,D,L,P,N,X,Q
+
+commit f0a22b23bb6dd38cb9cac4a65847430d378db149
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Feb 24 21:32:05 2021 -0500
+
+    fixed input size
+
+commit 6210d79543bf458ca1f35e72d919786f926d440c
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Feb 24 13:08:50 2021 -0500
+
+    fixed minor errors
+
+commit 08d366b04eda560c266b6c5006f9c7b9963837c4
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Feb 23 19:30:05 2021 -0500
+
+    fixed for gradescope autograder
+
+commit c56d98f60857aea3d61bd21fae12db03caadd1e5
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Feb 23 19:16:15 2021 -0500
+
+    FINALLY finished hw3, everything works
+
+commit e06b36192cd1154c7b4902915068bbb264fe22c2
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Feb 23 17:30:17 2021 -0500
+
+    finished functions.c, have to run tests
+
+commit 9c75180b1a5b65db06c3f886efa42bbc746e0797
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Feb 23 16:33:52 2021 -0500
+
+    everything works, '~' edge cases still need fix
+
+commit 576f6826824ab2bb2d219d60d88e2c00a991e0a5
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Feb 23 12:45:32 2021 -0500
+
+    regex chars '*' and '?' works
+
+commit a085facd24c0a19554329eae0ecb870d0d5b7a2c
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Feb 23 12:26:47 2021 -0500
+
+    FINALLY fixed segmentation error
+
+commit 637bb0e114d506ef9c4f09e6b2318ff7c43edf37
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Feb 23 12:06:37 2021 -0500
+
+    lots of errors, for Lisa to look
+
+commit 235785ecc90d8bd952ebad2ecfe3ba9819fb4287
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 22 17:32:35 2021 -0500
+
+    Main skeleton code done, match function needs work
+
+commit 73a1ba93cbf8cca8f41eaf640c9c7c40d1a1c552
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 22 16:31:17 2021 -0500
+
+    added command line argument functionality
+
+commit fb42ebb19aed9225bad102986603f93adc5bffd9
+Merge: 8c18d87 8005535
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 22 16:20:53 2021 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-student-kkim170
+
+commit 8c18d8746885ff1fce8cfbbed3944c593285411b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 22 16:19:16 2021 -0500
+
+    file i/o works perfectly, stores in array
+
+commit 80055356717de4ec4f7e6971211d37f9587af9fe
+Author: Randog <71181430+Randog@users.noreply.github.com>
+Date:   Mon Feb 22 12:56:06 2021 -0500
+
+    Update README
+
+commit c800061f3110c538d6a5fcd860a4fa70371ef90e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 22 12:55:17 2021 -0500
+
+    file I/O works in main
+
+commit 81caa7023e6b49661336a836983dee6eb2c8b503
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 22 12:36:35 2021 -0500
+
+    added hw3 template
+
+commit 296d6b5e01fbec837414003b3d446e4599140e0c
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 8 17:48:49 2021 -0500
+
+    homework1 done, fixed formatting for autograder
+
+commit 27a1824a697864f62e2f92d81af1f141607fc33c
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 8 17:31:25 2021 -0500
+
+    homework1 done
+
+commit bb5a3e8fcdd2e140a0d6f04c1ce2a772327221c9
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 8 17:22:18 2021 -0500
+
+    homework1 works, final adjustments needed
+
+commit a2a7694e51e6f383959e823fc40a4fc806405162
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 8 17:06:17 2021 -0500
+
+    works for multiple, but not single. still needs fix
+
+commit f6a26562f6af8db6a46ae826ba8bbfe5cc57b757
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 8 16:42:24 2021 -0500
+
+    used helper function, first temp works now
+
+commit 02b504123df3e5ee3d14c5fa73cf3d7f434cf3cb
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 8 15:03:42 2021 -0500
+
+    basic structure is done, might change to use helper methods
+
+commit 4094694d2f6a4214c2251de176a94837153d0de9
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 8 14:25:16 2021 -0500
+
+    created hw1 file
+
+commit 6b8665ad9f75bfcdde9cd6b22f1d02d6b0992181
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 1 18:05:16 2021 -0500
+
+    homework0 done
+
+commit fd3a3408033d6c3d68eb02ab7f42513f73798141
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 1 17:47:00 2021 -0500
+
+    gpa done for now
+
+commit e0209f6c5721377a78e162e99bb3e798a08af4f6
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 1 15:01:23 2021 -0500
+
+    updated README
+
+commit f065ea022e4802cd19f128d30387cc696248bfec
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Feb 1 14:57:01 2021 -0500
+
+    created README
